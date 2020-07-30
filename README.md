@@ -1,3 +1,3 @@
 # git-b02-labs
-git-b02-labs merge conflict test branch
+git-b02-labs master branch
 
